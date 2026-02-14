@@ -1,0 +1,24 @@
+{
+  "name": "tab-news-clone",
+  "version": "1.0.0",
+  "description": "Clone do tabnews.",
+  "homepage": "https://github.com/leandrogel/tab-news-clone#readme",
+  "bugs": {
+    "url": "https://github.com/leandrogel/tab-news-clone/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrogel/tab-news-clone.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
