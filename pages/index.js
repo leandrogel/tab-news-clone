@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Bem-vindo ao TabNews!</h1>
+      <h1>Bem-vindo ao TabNews! =)</h1>
     </div>
   );
 }
